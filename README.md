@@ -39,6 +39,7 @@ I'm a Computer Science student passionate about web development. Currently build
 
 - Data Structures & Algorithms
 - C++
+- java
 - Web Development fundamentals
 
 ---
