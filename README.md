@@ -21,6 +21,8 @@ I'm a Computer Science student passionate about web development. Currently build
 
 **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
 **Focus Areas**
 ![Web Development](https://img.shields.io/badge/Web%20Development-4CAF50?style=flat-square)
@@ -39,7 +41,6 @@ I'm a Computer Science student passionate about web development. Currently build
 
 - Data Structures & Algorithms
 - C++
-- java
 - Web Development fundamentals
 
 ---
